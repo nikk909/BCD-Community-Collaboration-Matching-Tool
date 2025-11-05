@@ -191,12 +191,6 @@ The system considers:
 
 ---
 
-## Contact & Support
-
-For questions or support, please contact the BCD Community administrators.
-
----
-
 **Thank You!**
 
 ---
